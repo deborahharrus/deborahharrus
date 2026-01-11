@@ -8,8 +8,8 @@ I maintain [tiny_tools](https://github.com/deborahharrus/tiny_tools): small, foc
 
 I also contribute to data curation and quality efforts for [ChEBI](https://github.com/ebi-chebi/ChEBI).
 
-📍 Affiliation: EMBL-EBI / PDBe  https://github.com/PDBeurope
+📍 Affiliation: EMBL-EBI / [PDBe](https://github.com/PDBeurope)
 
 📫 How to reach me:  
-ORCID: https://orcid.org/0000-0002-7651-672X<br>
-LinkedIn: https://www.linkedin.com/in/deborahharrus/
+[ORCID](https://orcid.org/0000-0002-7651-672X)<br>
+[LinkedIn](https://www.linkedin.com/in/deborahharrus/)
